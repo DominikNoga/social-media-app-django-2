@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'SocialAppDB',
         'USER': 'domin',
-        'PASSWORD': 'wazawa13322',
+        'PASSWORD': '******',
         'HOST': 'database-3.c8dd0ofr18t0.us-east-1.rds.amazonaws.com',
         'PORT': '5432'
     }
