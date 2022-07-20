@@ -1,0 +1,2 @@
+* Connecting with postgreSQL *
+-pip install psycopg2
